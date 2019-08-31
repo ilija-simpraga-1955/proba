@@ -18,3 +18,4 @@ if(isset($_GET['a'])) {
 	echo json_encode($niz);
 }
 ?>
+izmena
